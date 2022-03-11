@@ -43,4 +43,4 @@ Deployed [Link](https://tech-blog-1400.herokuapp.com)
 ## How to Contribute 
 * This project welcomes your contributions! Please fork this repository and submit pull requests with any contributions. Further information can be found in the questions section below.
 ## Questions
-* For further information, please check out my github repository at https://github.com/nmemarcoding/Employee-Tracker-1400, or by emailing memarzadehnima@gmail.com
+* For further information, please check out my github repository at https://github.com/nmemarcoding/Tech-Blog-1400, or by emailing memarzadehnima@gmail.com
